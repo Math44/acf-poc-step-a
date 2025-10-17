@@ -1,8 +1,8 @@
 1) Installation (2 options)
    
-Option A – via Git Updater
+Option A, via Git Updater
 
-Option B – copie dans le thème (si tu préféres sans plugin) :
+Option B, copie dans le thème (si tu préféres sans plugin) :
 
   Copier inc/acf-poc-map.php et assets/js/acf-poc-parent-child.js dans le thème/child-thème.
   Ajouter dans functions.php :
